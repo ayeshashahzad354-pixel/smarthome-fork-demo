@@ -1,6 +1,7 @@
 #SMART HOME SECURITY & TEMPERATURE CONTROL SYSTEM DEVELOPED TO UNDERSTAND (C MULTIPROCESSING)
 
 A C program demonstrating process concurrency ,CPU scheduling (how cpu switches to other process while proceeding delay using Sleep(2)) and multiprocessing using linux calls in WSL(ubunto)
+
 #FEATURES USED:
 fork() system call: Used to create a duplicate child process from the parent process in our system multiple child processes were created that perform the security scan action 
 getpid() system call: return the id of currently running process to distinguish among parent and child process
